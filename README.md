@@ -5,7 +5,8 @@
 - 📫 How to reach me harshadayadav13@gmail.com
 - 😄 Pronouns: she/her 
 - ⚡ Fun fact: ...
-
+<br>
+<a href="https://www.linkedin.com/in/harshadayadav13/"> Link of Linkedin Profile: Harshada Yadav</a>
 <!---
 HarshadaSYadav/HarshadaSYadav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
