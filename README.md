@@ -1,6 +1,4 @@
 
-#Harshada_Yadav
-
 - 👋 Hi, I’m @HarshadaSYadav
 - 👀 I’m interested in Web Development and Android DEvelopment
 - 🌱 I’m currently learning B.tech CSE 
