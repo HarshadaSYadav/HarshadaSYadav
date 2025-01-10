@@ -1,20 +1,19 @@
-<h1 align="center">Hi 👋, I'm @HarshadaSYadav</h1>
-<h3 align="center">A Passionate Developer</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Harshada Shashank Yadav</h1>
+<h3 align="center">A Passionate Developer | Java Enthusiast | Web Development Explorer</h3>
 
-- 🔭 I’m interested in **Java Development and Web Development**
 
-- 🌱 I’m currently learning **B.tech CSE**
 
-- 👯 I’m looking to collaborate on **Tech NMCOE**
+---
 
-- 📫 How to reach me **harshadayadav13@gmail.com**
+### 🚀 About Me
 
-- 😄 Pronouns: **she/her**
+- 🔭 **I’m passionate about:** Java Development, Web Development, and exploring cutting-edge technologies.
+- 🌱 I’m currently learning: **B.tech CSE**
+- 👯 **Looking to collaborate on:** Open-source projects and innovative web applications.
+- 📧 **Reach me at:** [harshadayadav13@gmail.com](mailto:harshadayadav13@gmail.com)
+- 🌟 **Fun fact:** I love creating beautiful, functional designs and drinking way too much coffee while coding!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/harshadayadav13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshadayadav13" height="30" width="40" /></a>
-</p>
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -24,9 +23,26 @@
 </a><a href="https://www.postman.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </a>
-</a>
-</a> </p>
-<!---
-HarshadaSYadav/HarshadaSYadav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshadaSYadav&show_icons=true&theme=radical" alt="Harshada's GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshadaSYadav&theme=radical" alt="GitHub Streak Stats"/>
+</p>
+
+---
+
+### 📫 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/harshadayadav13" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+</p>
+
+---
+
+<p align="center">✨ Thank you for visiting my GitHub! Feel free to explore my repositories and connect with me. Let’s build something amazing together! ✨</p>
