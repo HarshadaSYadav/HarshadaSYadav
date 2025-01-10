@@ -26,6 +26,15 @@
 
 ---
 
+### 📫 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/harshadayadav13" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -36,13 +45,5 @@
 
 ---
 
-### 📫 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/harshadayadav13" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-</p>
-
----
 
 <p align="center">✨ Thank you for visiting my GitHub! Feel free to explore my repositories and connect with me. Let’s build something amazing together! ✨</p>
