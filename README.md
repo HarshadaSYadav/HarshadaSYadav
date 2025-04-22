@@ -1,12 +1,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Harshada Shashank Yadav</h1>
-<h3 align="center">A Passionate Developer | Java Enthusiast | Web Development Explorer</h3>
+<h3 align="center">A Java Enthusiast | Software Developer | Web Development Explorer</h3>
 
 ---
 
 ### 🚀 About Me
 
 - 🔭 **I’m passionate about:** Java Development, Web Development, and exploring cutting-edge technologies.
-- 🌱 I’m currently learning: **B.tech CSE**
+- 🌱 I’m currently learning: **B.Tech CSE**
 - 💞 **Looking to collaborate on:** Open-source projects and innovative web applications.
 - 📧 **Reach me at:** [harshadayadav13@gmail.com](mailto:harshadayadav13@gmail.com)
 - 🌟 **Fun fact:** I love creating beautiful, functional designs and drinking way too much coffee while coding!
@@ -57,11 +57,20 @@
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a>
+   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
+  </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/>
   </a>
 </p>
 
